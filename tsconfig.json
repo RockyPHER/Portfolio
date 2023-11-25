@@ -20,6 +20,8 @@
     ],
     "paths": {
       "@/TechIcons/*": ["./public/TechIcons/*"],
+      "@/Backgrounds/*": ["./public/Backgrounds/*"],
+      "@/Icons/*": ["./public/Icons/*"],
       "@/*": ["./*"]
     }
   },
